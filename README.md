@@ -31,7 +31,7 @@
 - [📝 License](#license)
 - [⚠️Disclaimer](#disclaimer)
 
-# 📖 [React-Clean] <a name="about-project"></a>
+# 📖 [Greeting App - Frontend] <a name="about-project"></a>
 
 **[React-Clean]** is a template from which the module 3 activities will be based
 
@@ -55,7 +55,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - No previews available for this template [here]()
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +139,7 @@ _[the license](./LICENSE)_ Credit will be appreciated but not mandatory.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [favicon](https://www.pixiv.net/en/artworks/71008974) by [横gon](https://www.pixiv.net/en/users/29647895)
+- [favicon](https://www.pixiv.net/en/artworks/71008974) by [横 gon](https://www.pixiv.net/en/users/29647895)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
